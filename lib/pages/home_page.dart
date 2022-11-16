@@ -11,7 +11,7 @@ class Homepage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Center(child: Text('Catalog')),
-        backgroundColor: Colors.black,
+        backgroundColor: Color.fromARGB(255, 166, 123, 123),
       ),
       body: Center(
         child: Container(
